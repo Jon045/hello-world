@@ -1,1 +1,5 @@
-alert(1);
+function display() {
+   alert("Hello World!");
+}
+
+display();
